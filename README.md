@@ -6,6 +6,19 @@ Software Developer Intern
 
 Student of Information Systems with interests in the technology field, focusing on software development, front-end, back-end, data analysis, and CyberSecurity. Currently, working as a software developer intern at Tendências Consultoria Integrada and projects at the junior company of the Information Systems course at USP, specializing in technology solutions with web design and development.
 
+I have studied many topics in classes, some to emphasize...
+  Data Structure: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables, Heaps,     
+  Linear and Binary search, DFS, BFS, Hashing, Djkstra. 
+
+  Algorithm analysis: time and space complexity, Asymptotic Notations, Best, Worst and Avarage 
+  cases, Recursion, Dynamic programing, Bubble, selection, insertion, merge, quick, heap radix 
+  sort. 
+
+  Database: Relational Database, SQL, CRUD, Postgrate. 
+
+  Discrete Mathematics: Boolean Algebra, Probability and Combinatorial, Graph Theory, Logic, 
+  Number Theory, Fundamental Counting Principle
+
 * 🌍  I'm based in São Paulo, SP - Brazil.
 * ✉️  You can contact me at [martinslucas2628@gmail.com](mailto:martinslucas2628@gmail.com)
 * 🚀  I'm currently working on [Tendências Consultoria Integrada](http://https://tendencias.com.br/)
